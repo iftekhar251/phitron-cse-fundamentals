@@ -1,0 +1,4 @@
+Tail before delete :30
+10
+20
+Tail after delete :20

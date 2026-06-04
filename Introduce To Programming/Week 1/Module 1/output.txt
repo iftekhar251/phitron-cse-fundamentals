@@ -1,0 +1,1 @@
+Enter 1st Number :Enter 2nd Number :Result is :0 2342912 

@@ -1,0 +1,5 @@
+4
+akil 5 87
+rakib 6 76
+akis  8 70
+akis 4 70
