@@ -1,14 +1,14 @@
-# def hello(num):
-#     print(num)
+def hello(num):
+    print(num)
 
-# hello(10)
+hello(10)
 
-# def double_it(num):
-#     result=num*2
-#     print(result)
-#     return result
+def double_it(num):
+    result=num*2
+    print(result)
+    return result
 
-# double_it(10)
+double_it(10)
 
 def sum(num1,num2):
     result=num1+num2
